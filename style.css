@@ -1,0 +1,88 @@
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    background-color: whitesmoke;
+}
+
+body {
+    color: black;
+    background-color: white;
+}
+
+th, td {
+    border: 3px solid black;
+    font-family: "Poppins", sans-serif;
+    padding: 8px;
+    color: black;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    color: black;
+}
+
+body.basico {
+    color: black;
+    background-color: white;
+}
+
+table.basico {
+    background-color: whitesmoke;
+    border: 3px solid black;
+}
+
+th.basico, td.basico {
+    background-color: white;
+    color: black;
+}
+
+
+body.dark {
+    background-color: #121212;
+    color: #e6e6e6;
+}
+
+table.dark {
+    background-color: #1e1e1e;
+    border: 3px solid #444;
+}
+
+th.dark, td.dark {
+    background-color: #1c1c1c;
+    border: 3px solid #555;
+    color: #e6e6e6;
+}
+
+h1.dark, h2.dark {
+    background-color: #1f1f1f;
+    border: 1px solid #666;
+    color: #e6e6e6;
+}
+
+
+
+
+body.cinematografico {
+    background-color: #0a0f1f;   
+    color: #ffeccb;              
+}
+
+table.cinematografico {
+    background-color: #162138;
+    border: 3px solid #d4a76a;   
+}
+
+th.cinematografico, td.cinematografico {
+    background-color: #1c2a48;
+    border: 3px solid #d4a76a;
+    color: #ffeccb;
+}
+
+h1.cinematografico, h2.cinematografico {
+    background-color: #142033;
+    border: 1px solid #d4a76a;
+    color: #ffeccb;
+}
